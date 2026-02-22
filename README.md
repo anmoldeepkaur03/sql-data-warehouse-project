@@ -55,6 +55,36 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 Hi! I'm Anmoldeep Kaur. I am a aspiring Data analyst seeking new oppertunities.    
 Let's stay in touch through:
-1. **Linkedin**: https://www.linkedin.com/in/anmoldeep-kaur-6525102b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7I7CJuhBReGukf8a9QfW1g%3D%3D
+1. **Linkedin**:https://www.linkedin.com/in/anmoldeep-kaur-6525102b4
 2. **Tableau**: https://public.tableau.com/app/profile/anmoldeep.kaur2351/vizzes
 3. **E-Mail**: anmolchahal2002@gmail.com
+
+---
+
+## 📂 Repository Structure
+```
+data-warehouse-project/
+│
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+│
+├── docs/                               # Project documentation and architecture details
+│   ├── data_integration.md             # File shows how data integrated at different layers
+│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
+│   ├── data_flow                       # File for the data flow diagram
+│   ├── data_model                      # File for data models (star schema)
+│   ├── naming_conventions.md           # Consistent naming guidelines for tables, columns, and files
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
+│
+├── tests/                              # Test scripts and quality files
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+
+```
+---
+
+
