@@ -1,7 +1,6 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** respository!
----
+Welcome to the **Data Warehouse and Analytics Project** respository!   
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights best practices in data engineerimg and analytics.
 
 ---
@@ -54,8 +53,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 ### About Me
 
-Hi! I'm Anmoldeep Kaur. I am a aspiring Data analyst seeking new oppertunities. 
----
+Hi! I'm Anmoldeep Kaur. I am a aspiring Data analyst seeking new oppertunities.    
 Let's stay in touch through:
 1. **Linkedin**: https://www.linkedin.com/in/anmoldeep-kaur-6525102b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7I7CJuhBReGukf8a9QfW1g%3D%3D
 2. **Tableau**: https://public.tableau.com/app/profile/anmoldeep.kaur2351/vizzes
