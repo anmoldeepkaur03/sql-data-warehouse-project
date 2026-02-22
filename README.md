@@ -42,5 +42,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
   ---
   ### Data Architecture 
   The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers:
-  <img width="3284" height="2244" alt="image" src="https://github.com/user-attachments/assets/df876017-3df3-4b94-8ce9-c4203a7712d2" />
+  <img width="3284" height="2004" alt="image" src="https://github.com/user-attachments/assets/692b861f-eb0b-4572-b4c2-c14ce36b8bcd" />
+
 
