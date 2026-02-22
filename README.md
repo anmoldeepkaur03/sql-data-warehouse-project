@@ -55,4 +55,6 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 Hi! I'm Anmoldeep Kaur. I love working with data. 
 Let's stay in touch through:
-https://www.linkedin.com/in/anmoldeep-kaur-6525102b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7I7CJuhBReGukf8a9QfW1g%3D%3D
+1. **Linkedin**: https://www.linkedin.com/in/anmoldeep-kaur-6525102b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7I7CJuhBReGukf8a9QfW1g%3D%3D
+2. **Tableau**: https://public.tableau.com/app/profile/anmoldeep.kaur2351/vizzes
+3. **E-Mail**: anmolchahal2002@gmail.com
