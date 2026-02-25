@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** respository!   
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights best practices in data engineerimg and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights best practices in data engineering and analytics.
 
 ---
 
@@ -51,6 +51,12 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 ---
 
+### Data Analysis
+
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+---
+
 ### About Me
 
 Hi! I'm Anmoldeep Kaur. I am a aspiring Data analyst seeking new oppertunities.    
@@ -78,7 +84,8 @@ data-warehouse-project/
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
-│
+|   ├── data_analysis/                  # Scripts for exploratory data analysis
+│   
 ├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
