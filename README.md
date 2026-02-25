@@ -8,7 +8,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 # Project Overview
 
 This project involves:
-  1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver** and     **Gold** layers.
+  1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver** and **Gold** layers.
   2. **ETL Pipelines**: Extracting, transforming and loading data from source system into the warehouse.
   3. **Data Modelling**: Developing fact and dimension tables optimised for analytical queries.
   4. **Analytical & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
@@ -26,7 +26,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Integration**: Combine both sources into single, user friendly data model designed for analytical queries.
 - **Scope**: Focus on latest dataset only, historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
-
+- **Data Analysis**: Provide detailed analysis of now cleaned data for better understanding.
 ---
 
   ### BI: Analytics & Reporting
@@ -73,14 +73,15 @@ data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
-├── docs/                               # Project documentation and architecture details
+├── docs/                               # Project documentation, architecture and analysis details
 │   ├── data_integration.md             # File shows how data integrated at different layers
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow                       # File for the data flow diagram
-│   ├── data_model                      # File for data models (star schema)
+│   ├── data_flow.md                    # File for the data flow diagram
+│   ├── data_model.md                   # File for data models (star schema)
 │   ├── naming_conventions.md           # Consistent naming guidelines for tables, columns, and files
-│
-├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── data_analysis.md                # File shows roadmap of the data analysis
+|
+├── scripts/                            # SQL scripts for ETL, transformations and Data analysis 
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
